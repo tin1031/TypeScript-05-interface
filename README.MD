@@ -21,17 +21,17 @@
 
 
 ## interface extends interface
-    원본 interface에 새로운 값 interface를 추가(상속이라고도 부름)
+    원본 interface에 새로운 값 interface를 추가(상속이라고도 부름) - interface6.ts
 
 
 ## function interface
     추상 메서드가 오직 하나인 인터페이스
-    default method, static method는 넣어도 문제 없음
+    default method, static method는 넣어도 문제 없음 - interface7.ts
 
 
 ## Readonly interface Properties
-    프로퍼티가 바뀌지 않는 값이라면 readonly를 붙이는게 좋다
+    프로퍼티가 바뀌지 않는 값이라면 readonly를 붙이는게 좋다 - interface8.ts
 
 
 ## type alias VS interface
-    타입에 별명을 붙이는 alias와 타입 생성의 interface 비교
+    타입에 별명을 붙이는 alias와 타입 생성의 interface 비교 - interface9.ts
